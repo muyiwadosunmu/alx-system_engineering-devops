@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a=xrw
+chmod a=xrw hello
