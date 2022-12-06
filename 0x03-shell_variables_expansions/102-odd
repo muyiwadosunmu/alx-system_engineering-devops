@@ -1,0 +1,2 @@
+#!/bin/bash
+pasted -d, - - | cut -d, -f1
